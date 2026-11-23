@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sewa-mobil-sopir-saigon.onrender.com/sitemap.xml
